@@ -28,15 +28,3 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat-square&logo=latex&logoColor=white)
 
 ---
-
-### 📊 Statistics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alimertkss&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimertkss&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimertkss&theme=dark&hide_border=true&stroke=ffffff&background=00000000" alt="GitHub Streak" />
-</p>
