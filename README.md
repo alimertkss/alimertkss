@@ -1,37 +1,31 @@
-# ⚡ Ali Mert Köse
+# ⚡ Hello World, I'm Ali Mert Köse
 
-### 🚀 Computer Engineering Student at Hacettepe University | Class of 2028
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ali%20Mert%20Köse&fontSize=70" />
+</p>
+
+### 🎓 Future Computer Engineer | Hacettepe University '28
 
 ---
 
-### 🎓 About Me
-- 🔭 Currently focusing on **Data Structures & Algorithms**.
-- 🏆 **inzva Winter Camp 2026** Participant & Foundation Group 2nd Place.
-- 🛠️ Interested in **Game Development** and **Competitive Programming**.
-- 📫 How to reach me: [alikose@hacettepe.edu.tr](mailto:alikose@hacettepe.edu.tr)
+## 🚀 About Me
+- 🎯 **Focused on:** Advanced Data Structures & Algorithmic Problem Solving.
+- 🏆 **Achievement:** Secured **2nd Place** in the Foundation Group at **inzva Winter Camp 2026**.
+- 🛠️ **Projects:** Developing games and systems using **OOP principles**.
+- 🌱 **Learning:** Currently exploring deep backend architectures and performance optimization.
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🛠 My Tech Stack
 
-**Languages** <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
-</p>
+### 🚀 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools & Others** <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,html,css,latex" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=alimertkss&show_icons=true&theme=radical" alt="alimertkss stats" />
-</p>
-
----
-
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/alimertkss" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://
