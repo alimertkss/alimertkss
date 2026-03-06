@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/alimertkss"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alikose@hacettepe.edu.tr"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/alimertkss"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,4 +19,9 @@
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![Java](
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![VSCode](
