@@ -1,34 +1,37 @@
-# Hi, I'm Ali Mert Köse 👋
+# ⚡ Ali Mert Köse
 
-### 🎓 2nd Year Computer Engineering Student at Hacettepe University
+### 🚀 Computer Engineering Student at Hacettepe University | Class of 2028
 
 ---
 
-### 💻 Languages and Tools:
+### 🎓 About Me
+- 🔭 Currently focusing on **Data Structures & Algorithms**.
+- 🏆 **inzva Winter Camp 2026** Participant & Foundation Group 2nd Place.
+- 🛠️ Interested in **Game Development** and **Competitive Programming**.
+- 📫 How to reach me: [alikose@hacettepe.edu.tr](mailto:alikose@hacettepe.edu.tr)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages** <p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
+</p>
+
+**Tools & Others** <p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,html,css,latex" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
-
+### 📊 GitHub Stats
 <p align="left">
-  <a href="https://linkedin.com/in/alimertkss" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="alimertkss" width="40" height="40" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=alimertkss&show_icons=true&theme=radical" alt="alimertkss stats" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alimertkss&show_icons=true&theme=tokyonight)
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/alimertkss" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
